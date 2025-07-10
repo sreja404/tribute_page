@@ -1,2 +1,2 @@
 link:
-https://sreja404.github.io/htmlproj2/
+https://sreja404.github.io/tribute_page/
